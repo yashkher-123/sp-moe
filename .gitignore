@@ -1,0 +1,19 @@
+# jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# environment
+.env
+venv/
+env/
+*.venv
+
+# data files
+*.csv
+*.zip
+*.xlsx
+*.xls
+
+# python cache
+__pycache__/
+*.pyc
